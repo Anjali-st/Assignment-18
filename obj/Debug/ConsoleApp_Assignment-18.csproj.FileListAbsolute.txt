@@ -1,0 +1,8 @@
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\bin\Debug\ConsoleApp_Assignment-18.exe.config
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\bin\Debug\ConsoleApp_Assignment-18.exe
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\bin\Debug\ConsoleApp_Assignment-18.pdb
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\obj\Debug\ConsoleApp_Assignment-18.csproj.AssemblyReference.cache
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\obj\Debug\ConsoleApp_Assignment-18.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\obj\Debug\ConsoleApp_Assignment-18.csproj.CoreCompileInputs.cache
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\obj\Debug\ConsoleApp_Assignment-18.exe
+D:\DotNet\Day-17\ConsoleApp_Assignment-18\obj\Debug\ConsoleApp_Assignment-18.pdb
